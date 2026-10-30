@@ -1,0 +1,756 @@
+{
+ "account_admin_console_20260926.png": {
+  "captured_text": "24 Sep 2026 09:14 JST",
+  "image_sha256": "d5c32ca5b6e1a2b4bbe9f5d41835ef1fd5d4f7061dab9067a4f9f88cea3c1861",
+  "records": [
+   {
+    "aliases": [
+     "user_11"
+    ],
+    "customer_reference": "user_11",
+    "email": "haruka.s1838@zoho.com",
+    "enabled": null,
+    "full_name": "Haruka Sato",
+    "is_focus": true,
+    "kind": "USER_PROFILE",
+    "phone": "+81 90 7610 2507",
+    "present": true,
+    "resource_id": "account_5762",
+    "restore_allowed": null,
+    "shows_direct_identifiers": true,
+    "status_text": "Silver",
+    "system_id": "account_service"
+   }
+  ],
+  "screen_title": "Haruka Sato",
+  "system_id": "account_service",
+  "tool": "Northstar Shop"
+ },
+ "analytics_profile_view_20260713.png": {
+  "captured_text": "Updated moments ago · 5 records",
+  "image_sha256": "4e4cb259bc2010b622b0c53fe5872258f994fefc23452a83bb27473758693484",
+  "records": [
+   {
+    "aliases": [
+     "user_20",
+     "darwish.omar@icloud.com"
+    ],
+    "customer_reference": "user_20",
+    "email": "darwish.omar@icloud.com",
+    "enabled": null,
+    "full_name": "Omar Darwish",
+    "is_focus": true,
+    "kind": "ANALYTICS_PROFILE",
+    "phone": null,
+    "present": true,
+    "resource_id": "analytics_7438",
+    "restore_allowed": null,
+    "shows_direct_identifiers": true,
+    "status_text": "Last 90 days",
+    "system_id": "analytics_platform"
+   }
+  ],
+  "screen_title": "Omar Darwish",
+  "system_id": "analytics_platform",
+  "tool": "Pulse Analytics"
+ },
+ "backup_restore_console_20260429.png": {
+  "captured_text": "Updated moments ago • 4 records",
+  "image_sha256": "2c246aa5843bec609b9ddfdf1154cd81e0fd61996f83954735e9856e48c18bf3",
+  "records": [
+   {
+    "aliases": [],
+    "customer_reference": null,
+    "email": "bluepeakco@outlook.com",
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "BACKUP_ARCHIVE",
+    "phone": null,
+    "present": true,
+    "resource_id": "backup_9291",
+    "restore_allowed": true,
+    "shows_direct_identifiers": true,
+    "status_text": "Archive",
+    "system_id": "backup_service"
+   },
+   {
+    "aliases": [],
+    "customer_reference": null,
+    "email": "miller.logistics@company.com",
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "BACKUP_ARCHIVE",
+    "phone": null,
+    "present": true,
+    "resource_id": "backup_9288",
+    "restore_allowed": true,
+    "shows_direct_identifiers": true,
+    "status_text": "Archive",
+    "system_id": "backup_service"
+   },
+   {
+    "aliases": [
+     "s3://northstar-backups/customer-platform/weeklysegment-42-20260426.tar.zst"
+    ],
+    "customer_reference": null,
+    "email": "areed1433@gmail.com",
+    "enabled": null,
+    "full_name": null,
+    "is_focus": true,
+    "kind": "BACKUP_ARCHIVE",
+    "phone": null,
+    "present": true,
+    "resource_id": "backup_9287",
+    "restore_allowed": true,
+    "shows_direct_identifiers": true,
+    "status_text": "Archive",
+    "system_id": "backup_service"
+   },
+   {
+    "aliases": [],
+    "customer_reference": null,
+    "email": "summit-retail@company.com",
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "BACKUP_ARCHIVE",
+    "phone": null,
+    "present": true,
+    "resource_id": "backup_9286",
+    "restore_allowed": true,
+    "shows_direct_identifiers": true,
+    "status_text": "Archive",
+    "system_id": "backup_service"
+   }
+  ],
+  "screen_title": "Customer-platform archives",
+  "system_id": "backup_service",
+  "tool": "Vault Recovery Manager"
+ },
+ "connector_management_console_20260807.png": {
+  "captured_text": "07 Aug 2026 08:00 UTC",
+  "image_sha256": "e81fabc93ea1b5f4c918d934cdb2bea05d61737adfcc29f281494f5d8ec46355",
+  "records": [
+   {
+    "aliases": [],
+    "customer_reference": null,
+    "email": "jain.aditi@gmail.com",
+    "enabled": true,
+    "full_name": null,
+    "is_focus": true,
+    "kind": "DATA_FLOW",
+    "phone": null,
+    "present": true,
+    "resource_id": "data_flow_1121",
+    "restore_allowed": null,
+    "shows_direct_identifiers": true,
+    "status_text": "Healthy",
+    "system_id": "integration_service"
+   },
+   {
+    "aliases": [],
+    "customer_reference": null,
+    "email": "lucia.torres@gmail.com",
+    "enabled": true,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "DATA_FLOW",
+    "phone": null,
+    "present": true,
+    "resource_id": "data_flow_9846",
+    "restore_allowed": null,
+    "shows_direct_identifiers": true,
+    "status_text": null,
+    "system_id": "integration_service"
+   },
+   {
+    "aliases": [
+     "Order notifications"
+    ],
+    "customer_reference": null,
+    "email": null,
+    "enabled": true,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "DATA_FLOW",
+    "phone": null,
+    "present": true,
+    "resource_id": null,
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": null,
+    "system_id": "integration_service"
+   },
+   {
+    "aliases": [
+     "Delivery tracking"
+    ],
+    "customer_reference": null,
+    "email": null,
+    "enabled": true,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "DATA_FLOW",
+    "phone": null,
+    "present": true,
+    "resource_id": null,
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": null,
+    "system_id": "integration_service"
+   }
+  ],
+  "screen_title": "Connections",
+  "system_id": "integration_service",
+  "tool": "BridgeOps"
+ },
+ "customer_export_console_20260618.png": {
+  "captured_text": "Updated moments ago · 4 records",
+  "image_sha256": "18b95c1bd8b8956e40216df935498a9f3c181ea2a69b5cd6d3c0841a816d5557",
+  "records": [
+   {
+    "aliases": [
+     "customer_export_1261.zip"
+    ],
+    "customer_reference": null,
+    "email": "marcus.lee@northstar.shop",
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "USER_EXPORT",
+    "phone": null,
+    "present": true,
+    "resource_id": "export_1261",
+    "restore_allowed": null,
+    "shows_direct_identifiers": true,
+    "status_text": "Collecting",
+    "system_id": "export_service"
+   },
+   {
+    "aliases": [
+     "customer_export_1260.zip"
+    ],
+    "customer_reference": null,
+    "email": "ingrid.dahl@outlook.com",
+    "enabled": null,
+    "full_name": null,
+    "is_focus": true,
+    "kind": "USER_EXPORT",
+    "phone": null,
+    "present": true,
+    "resource_id": "export_1260",
+    "restore_allowed": null,
+    "shows_direct_identifiers": true,
+    "status_text": "Ready",
+    "system_id": "export_service"
+   },
+   {
+    "aliases": [
+     "customer_export_1259.zip"
+    ],
+    "customer_reference": null,
+    "email": "sara.kim@northstar.shop",
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "USER_EXPORT",
+    "phone": null,
+    "present": true,
+    "resource_id": "export_1259",
+    "restore_allowed": null,
+    "shows_direct_identifiers": true,
+    "status_text": "Packaging",
+    "system_id": "export_service"
+   },
+   {
+    "aliases": [
+     "customer_export_1258.zip"
+    ],
+    "customer_reference": null,
+    "email": "daniel.park@northstar.shop",
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "USER_EXPORT",
+    "phone": null,
+    "present": true,
+    "resource_id": "export_1258",
+    "restore_allowed": null,
+    "shows_direct_identifiers": true,
+    "status_text": "Ready",
+    "system_id": "export_service"
+   }
+  ],
+  "screen_title": "Data exports",
+  "system_id": "export_service",
+  "tool": "Customer Download Center"
+ },
+ "deleted_account_reference_20260310.png": {
+  "captured_text": "Most recent update 10 Mar 2026 07:18 UTC",
+  "image_sha256": "68c28a72afd6ed184d5990d15c543f8a516face204f0360f732755a8a63c28be",
+  "records": [
+   {
+    "aliases": [],
+    "customer_reference": "user_17",
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": true,
+    "kind": "USER_PROFILE",
+    "phone": null,
+    "present": true,
+    "resource_id": "user_17",
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Retained reference",
+    "system_id": "identity_service"
+   },
+   {
+    "aliases": [
+     "ORD-20263245"
+    ],
+    "customer_reference": null,
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "ACCOUNT_TOMBSTONE",
+    "phone": null,
+    "present": true,
+    "resource_id": null,
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Active",
+    "system_id": "identity_service"
+   },
+   {
+    "aliases": [
+     "CS-3245"
+    ],
+    "customer_reference": null,
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "ACCOUNT_TOMBSTONE",
+    "phone": null,
+    "present": true,
+    "resource_id": null,
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Active",
+    "system_id": "identity_service"
+   },
+   {
+    "aliases": [
+     "CS-3378"
+    ],
+    "customer_reference": null,
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "ACCOUNT_TOMBSTONE",
+    "phone": null,
+    "present": true,
+    "resource_id": null,
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Active",
+    "system_id": "identity_service"
+   },
+   {
+    "aliases": [
+     "FIN-7742"
+    ],
+    "customer_reference": null,
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "ACCOUNT_TOMBSTONE",
+    "phone": null,
+    "present": true,
+    "resource_id": null,
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Active",
+    "system_id": "identity_service"
+   }
+  ],
+  "screen_title": "Customer Reference Registry",
+  "system_id": "identity_service",
+  "tool": "Customer Reference Registry"
+ },
+ "marketing_profile_console.png": {
+  "captured_text": "Last refreshed 15 Sep 2026 23:40 UTC",
+  "image_sha256": "51fa0e6a38f8fa3629ba1b0d0b90b4ed139715956b97bfd09a6f1a6232c15df5",
+  "records": [
+   {
+    "aliases": [],
+    "customer_reference": null,
+    "email": "sj.park@naver.com",
+    "enabled": null,
+    "full_name": "Soo-jin Park",
+    "is_focus": true,
+    "kind": "MARKETING_PROFILE",
+    "phone": "+82 10-5837-9451",
+    "present": true,
+    "resource_id": "marketing_001",
+    "restore_allowed": null,
+    "shows_direct_identifiers": true,
+    "status_text": "Live",
+    "system_id": "marketing_platform"
+   }
+  ],
+  "screen_title": "Soo-jin Park",
+  "system_id": "marketing_platform",
+  "tool": "Audience Operations"
+ },
+ "object_storage_browser_20260213.png": {
+  "captured_text": "13 Feb 2026 08:00 UTC",
+  "image_sha256": "96e9a191380c29b9e0ab997007268c4cd6353cb6721ebd1ed4a32599d8d37e04",
+  "records": [
+   {
+    "aliases": [
+     "delivery_confirmation_19.pdf"
+    ],
+    "customer_reference": null,
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": true,
+    "kind": "SUPPORT_ATTACHMENT",
+    "phone": null,
+    "present": true,
+    "resource_id": null,
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Standard",
+    "system_id": "object_storage"
+   },
+   {
+    "aliases": [
+     "delivery_confirmation_20.pdf"
+    ],
+    "customer_reference": null,
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "SUPPORT_ATTACHMENT",
+    "phone": null,
+    "present": true,
+    "resource_id": null,
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Standard",
+    "system_id": "object_storage"
+   },
+   {
+    "aliases": [
+     "return_label_4821.pdf"
+    ],
+    "customer_reference": null,
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "SUPPORT_ATTACHMENT",
+    "phone": null,
+    "present": true,
+    "resource_id": null,
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Standard",
+    "system_id": "object_storage"
+   },
+   {
+    "aliases": [
+     "return_label_4876.pdf"
+    ],
+    "customer_reference": null,
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "SUPPORT_ATTACHMENT",
+    "phone": null,
+    "present": true,
+    "resource_id": null,
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Standard",
+    "system_id": "object_storage"
+   },
+   {
+    "aliases": [
+     "invoice_NS-10493.pdf"
+    ],
+    "customer_reference": null,
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "SUPPORT_ATTACHMENT",
+    "phone": null,
+    "present": true,
+    "resource_id": null,
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Standard",
+    "system_id": "object_storage"
+   },
+   {
+    "aliases": [
+     "parcel_damage_7713.jpg"
+    ],
+    "customer_reference": null,
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "SUPPORT_ATTACHMENT",
+    "phone": null,
+    "present": true,
+    "resource_id": null,
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Standard",
+    "system_id": "object_storage"
+   },
+   {
+    "aliases": [
+     "customer_export_2026-02-10.zip"
+    ],
+    "customer_reference": null,
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "USER_EXPORT",
+    "phone": null,
+    "present": true,
+    "resource_id": null,
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Standard",
+    "system_id": "object_storage"
+   },
+   {
+    "aliases": [
+     "customer_export_2026-02-12.zip"
+    ],
+    "customer_reference": null,
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "USER_EXPORT",
+    "phone": null,
+    "present": true,
+    "resource_id": null,
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Standard",
+    "system_id": "object_storage"
+   }
+  ],
+  "screen_title": "northstar-customer-data",
+  "system_id": "object_storage",
+  "tool": "Nimbus Object Storage"
+ },
+ "search_index_inspector_20260901.png": {
+  "captured_text": "Executed 01 Sep 2026 06:00:14 UTC",
+  "image_sha256": "75afdb0ae53a4510c83399a70d88073cb4fb2747454095756e4ddad1a8c70605",
+  "records": [
+   {
+    "aliases": [],
+    "customer_reference": "user_13",
+    "email": "g.silva76@gmail.com",
+    "enabled": null,
+    "full_name": "Gabriel Silva",
+    "is_focus": true,
+    "kind": "SEARCH_INDEX_ENTRY",
+    "phone": null,
+    "present": true,
+    "resource_id": "search_428",
+    "restore_allowed": null,
+    "shows_direct_identifiers": true,
+    "status_text": null,
+    "system_id": "search_service"
+   },
+   {
+    "aliases": [],
+    "customer_reference": "user_13",
+    "email": "g.silva76@gmail.com",
+    "enabled": null,
+    "full_name": "Gabriel Silva",
+    "is_focus": false,
+    "kind": "SEARCH_INDEX_ENTRY",
+    "phone": null,
+    "present": true,
+    "resource_id": "search_428",
+    "restore_allowed": null,
+    "shows_direct_identifiers": true,
+    "status_text": null,
+    "system_id": "search_service"
+   },
+   {
+    "aliases": [],
+    "customer_reference": null,
+    "email": "g.silva76.jr@gmail.com",
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "SEARCH_INDEX_ENTRY",
+    "phone": null,
+    "present": true,
+    "resource_id": "search_1874",
+    "restore_allowed": null,
+    "shows_direct_identifiers": true,
+    "status_text": null,
+    "system_id": "search_service"
+   }
+  ],
+  "screen_title": "Customer Search",
+  "system_id": "search_service",
+  "tool": "Search Console"
+ },
+ "security_audit_explorer_20260905.png": {
+  "captured_text": "Updated moments ago · 6 records",
+  "image_sha256": "ca59f693f4e7002466b3fdeaf1bb6763618770963dd811b60003772d07b4b03b",
+  "records": [
+   {
+    "aliases": [],
+    "customer_reference": "user_03",
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": true,
+    "kind": "SECURITY_AUDIT_LOG",
+    "phone": null,
+    "present": true,
+    "resource_id": "audit_record_003",
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Valid",
+    "system_id": "security_service"
+   },
+   {
+    "aliases": [],
+    "customer_reference": "user_03",
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "SECURITY_AUDIT_LOG",
+    "phone": null,
+    "present": true,
+    "resource_id": "audit_record_002",
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Valid",
+    "system_id": "security_service"
+   },
+   {
+    "aliases": [],
+    "customer_reference": "user_03",
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "SECURITY_AUDIT_LOG",
+    "phone": null,
+    "present": true,
+    "resource_id": "audit_record_001",
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Valid",
+    "system_id": "security_service"
+   },
+   {
+    "aliases": [],
+    "customer_reference": "user_03",
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "SECURITY_AUDIT_LOG",
+    "phone": null,
+    "present": true,
+    "resource_id": "audit_record_006",
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Valid",
+    "system_id": "security_service"
+   },
+   {
+    "aliases": [],
+    "customer_reference": "user_03",
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "SECURITY_AUDIT_LOG",
+    "phone": null,
+    "present": true,
+    "resource_id": "audit_record_005",
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Valid",
+    "system_id": "security_service"
+   },
+   {
+    "aliases": [],
+    "customer_reference": "user_03",
+    "email": null,
+    "enabled": null,
+    "full_name": null,
+    "is_focus": false,
+    "kind": "SECURITY_AUDIT_LOG",
+    "phone": null,
+    "present": true,
+    "resource_id": "audit_record_004",
+    "restore_allowed": null,
+    "shows_direct_identifiers": false,
+    "status_text": "Valid",
+    "system_id": "security_service"
+   }
+  ],
+  "screen_title": "Account events",
+  "system_id": "security_service",
+  "tool": "Sentinel"
+ },
+ "support_ticket_console_20260524.png": {
+  "captured_text": "Updated moments ago",
+  "image_sha256": "542b7aec17e6b2f38827896e7eb52c70e4bfaaca22433621be1f80f54884e944",
+  "records": [
+   {
+    "aliases": [
+     "CS-5034",
+     "ORD-20265034",
+     "SWF-884103"
+    ],
+    "customer_reference": null,
+    "email": "kagyeman8947@fastmail.com",
+    "enabled": null,
+    "full_name": "Kofi Agyeman",
+    "is_focus": true,
+    "kind": "SUPPORT_MESSAGE",
+    "phone": null,
+    "present": true,
+    "resource_id": "support_1034",
+    "restore_allowed": null,
+    "shows_direct_identifiers": true,
+    "status_text": "Normal priority",
+    "system_id": "support_platform"
+   }
+  ],
+  "screen_title": "CS-5034 · Where is my delivery?",
+  "system_id": "support_platform",
+  "tool": "Helpline Console"
+ }
+}

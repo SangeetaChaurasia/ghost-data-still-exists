@@ -1,0 +1,6 @@
+case_id,email,requested_at,reported_status,reported_at,audit_at,request_text,replaces
+custom_01,almeida.mariana@gmail.com,2026-08-30T12:00:00Z,COMPLETE,2026-09-02T12:00:00Z,2026-09-15T12:00:00Z,My surname is spelled wrong on the account. Please correct it - I am not asking you to delete or erase anything.,
+custom_02,noah.f438085@outlook.com,2026-08-27T12:00:00Z,NOT_STARTED,2026-08-30T12:00:00Z,2026-09-15T12:00:00Z,"Bitte löschen Sie mein Konto und alle damit verbundenen personenbezogenen Daten, auch Einträge unter meiner früheren E-Mail-Adresse.",case_29
+custom_03,haruka.s1838@zoho.com,2026-09-12T08:00:00Z,COMPLETE,2026-09-14T02:00:00Z,2026-09-20T12:00:00Z,Please delete my account and anything still linked to my old phone number.,case_34
+custom_04,zofia.z024@outlook.com,2026-05-04T06:00:00Z,COMPLETE,2026-05-07T06:00:00Z,2026-05-19T06:00:00Z,Peço a eliminação definitiva da minha conta e dos dados pessoais associados.,case_307
+custom_05,keiko.nakamura@gmail.com,2026-09-01T12:00:00Z,COMPLETE,2026-09-02T12:00:00Z,2026-09-15T12:00:00Z,Please delete me from your newsletter and promotional mailing lists only. Keep my account open.,
