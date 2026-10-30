@@ -17,3 +17,7 @@ code.zip
 # local agent transcripts (not part of the repo)
 /log.txt
 /2026-10-24-213913-instruction-read-the-ehackerrank-orchestrate-o.txt
+
+# agent instructions (local only)
+/CLAUDE.md
+/AGENTS.md
